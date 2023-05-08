@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "MotivyTest",
+      "sha256_cert_fingerprints": [
+        "66:B0:B6:EE:2C:A2:14:A5:DD:F2:31:EA:31:D0:74:08:A5:60:DE:1D:B0:6A:A7:C2:B4:43:B1:F3:38:EB:0B:86"
+      ]
+    }
+  }
+]
